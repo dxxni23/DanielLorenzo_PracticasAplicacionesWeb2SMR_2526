@@ -1,1 +1,26 @@
-# DanielLorenzo_PracticasAplicacionesWeb2SMR_2526
+<h1>DanielLorenzo_PracticasAplicacionesWeb2SMR_2526</h1>
+<hr>
+<h2>🚩Español🚩</h2>
+</hr>
+<hr>
+Nombre: Daniel Lorenzo 
+<br>
+Curso: 2º de Grado Medio en Sistemas Microinformáticos y Redes
+<hr>
+<br>
+🚧Repositorio para las practicas de Python🚧
+<br>
+<hr>
+<h2>🚩ENGLISH🚩</h2>
+Nombre: Daniel Lorenzo 
+<br>
+Curso: 2º Medium Grade of Microcomputer Systems and Networks
+<hr>
+<br>
+🚧Repository for practics of Web Aplications🚧
+<br>
+<hr>
+<h2>🎯EJERCICIOS / EXCERSISES🎯</h2>
+<hr>
+<br>
+- 1º ==
