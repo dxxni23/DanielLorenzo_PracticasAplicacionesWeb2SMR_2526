@@ -8,7 +8,7 @@ Nombre: Daniel Lorenzo
 Curso: 2º de Grado Medio en Sistemas Microinformáticos y Redes
 <hr>
 <br>
-🚧Repositorio para las practicas de Python🚧
+🚧Repositorio para las practicas de Aplicaciones Web🚧
 <br>
 <hr>
 <h2>🚩ENGLISH🚩</h2>
