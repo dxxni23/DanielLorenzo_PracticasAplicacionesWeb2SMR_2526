@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+    background: #eeeeee;
+    font-family: Arial, sans-serif;
+}
+.container {
+    background: #2d2f33;
+    min-height: 100vh;
+}
+header {
+    background: #2d2f33;
+    color: white;
+    padding: 20px 0 10px 0;
+    text-align: center;
+    font-size: 2em;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    background: #dedede;
+    padding: 0.75em 0;
+    gap: 1em;
+}
+
+nav button {
+    background: #d2d2d2;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    border-radius: 4px;
+}
+nav button.active {
+    background: #333;
+    color: #fff;
+    font-weight: bold;
+}
+main {
+    background: #eeeeee;
+    padding: 30px;
+    text-align: center;
+}
+
+.Titulo_Principal {
+    font-size: 1.15em;
+    margin-bottom: 15px;
+}
+.curpro-principal {
+    font-weight: bold;
+}
+.content {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 20px;
+}
+.card {
+    background: #fafbfc;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px #d1d1d1;
+    width: 300px;
+    padding: 22px;
+    text-align: left;
+}
+
+.Pie_De_Pagina{
+    font-size: 0.95em;
+    margin-top: 7px;
+    background: #232426;
+    color: #eee;
+    padding: 17px 0 7px 0;
+    text-align: center;
+}
+

@@ -1,0 +1,93 @@
+.body {     background-color: #f5f5f5;
+}
+.rec-comun {
+            border-width: center;
+            place-content: center;
+            display: block;
+            float:left;
+            width: 700px;
+            height: 1410px;
+}
+
+
+
+
+
+.Rectangulo1 { 
+            border: 10px double rgb(2, 2, 2);
+            background-color: rgb(162, 169, 182);
+}
+
+
+
+
+
+
+.Rectangulo2 { 
+            background-color: rgb(145, 149, 155);
+            border-width: center;
+            place-content: center;
+            display: block;
+            float: left;
+            width: 300px;
+            height: 1410px;
+}
+.mi-foto {
+    width: 200px;
+    height: 200px;
+    display: block;
+    align-items: flex-start;
+    margin-top: -650px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+
+
+.Rectangulo3 { 
+            background-color: rgb(197, 201, 207);
+            border-width: center;
+            place-content: center;
+            display: block;
+            float: right;
+            width: 400px;
+            height: 1410px;
+}
+.Titulo-con-mi-nombre {
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Titulo-formaciónacademica{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
+.Texto-formaciónacademica{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+.Titulo-formacióncomplementaria{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 00px;
+}
+.Texto-formacióncomplementaria{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+}
+.Titulo-CompetenciasTecnicas{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 00px;
+}
+.Texto-CompetenciasTecnicas{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+}
